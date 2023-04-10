@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Jacob</h1>
+<h1 align="center">Hi 👋</h1>
 <h3 align="center">I am a student of the 42 school passionate about everything related to programming.Always open to learn more!</h3>
 <h3 align="center"> Always open to learn more! </h3>
 
