@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋</h1>
-<h3 align="center">I am a student of the 42 school passionate about everything related to programming.Always open to learn more!</h3>
+<h3 align="center">I am a student of the 42 school passionate about everything related to programming.</h3>
 <h3 align="center"> Always open to learn more! </h3>
 
 - 🔭 I’m currently working on **Minishell of School 42**
