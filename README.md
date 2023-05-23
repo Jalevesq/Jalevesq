@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate on: **new projects**
 
-- 📫 How to reach me: **Jacob25.levesque1@outlook.com**
+- 📫 How to reach me: **Jacoblevesquepro@gmail.com**
 
 </p>
 <h3 align="left">Connect with me:</h3>
