@@ -5,8 +5,6 @@
 
 - 🌱 I’m currently learning: **C/C++, Javascript and Python**
 
-- 👯 I’m looking to collaborate on: **new projects**
-
 - 📫 How to reach me: **Jacoblevesquepro@gmail.com**
 
 </p>
