@@ -1,7 +1,7 @@
 <h1 align="center"> Welcome to my GitHub Profile! </h1>
 <h3 align="center">Student at 42 School, always eager to learn more!</h3>
 
-- 🔭 I’m currently working on: **ft_transcendance of School 42**
+- 🔭 I’m currently working on: **New AI Project**
 
 - 🌱 I’m currently learning: **C/C++, Javascript and Python**
 
