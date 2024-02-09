@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on: **Piscine Object (C++) of school 42**
 
-- 🌱 I’m currently learning: **C/C++, Javascript and Python**
+- 🌱 I’m currently learning: **Java**
 
 - 📫 How to reach me: **Jacoblevesquepro@gmail.com**
 
