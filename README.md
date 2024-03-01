@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on: **Evoflow**
 
-- 🌱 I’m currently learning: **Java**
+- 🌱 I’m currently learning: **MERN Stack**
 
 - 📫 How to reach me: **Jacoblevesquepro@gmail.com**
 
