@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on: **Personal Project**
 
-- 🌱 I’m currently learning: **Java & SpringBoot**
+- 🌱 I’m currently learning: **SpringBoot & NextJS**
 
 - 📫 How to reach me: **Jacoblevesquepro@gmail.com**
 
